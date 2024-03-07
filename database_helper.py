@@ -2,7 +2,7 @@ import psycopg2
 from psycopg2 import OperationalError
 
 
-DB_NAME = "fetch"
+DB_NAME = "fetch_rewards"
 USER = "postgres"
 PASSWORD = "root"
 HOST = "localhost"
