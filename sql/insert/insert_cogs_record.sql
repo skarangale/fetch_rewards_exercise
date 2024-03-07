@@ -1,0 +1,1 @@
+INSERT INTO cogs (id) VALUES (%s);
