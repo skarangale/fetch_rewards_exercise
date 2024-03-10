@@ -1,0 +1,1 @@
+INSERT INTO cpgs (id) VALUES (%s);
